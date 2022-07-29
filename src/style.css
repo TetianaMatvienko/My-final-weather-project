@@ -38,8 +38,8 @@ li:first-letter {
 
 .weather-app {
   padding: 20px;
-  background: #edf5ff;
-  border: 1px solid #4070ff;
+  background: hsl(213, 100%, 96%);
+  border: 1px solid #8ebaff;
   border-radius: 5px;
   box-shadow: 3px 4px 21px rgba(0, 0, 0, 0.1);
 }
@@ -55,7 +55,10 @@ li:first-letter {
   margin-right: 5px;
   margin-left: -5px;
 }
-
+.btn {
+  background-color: #6fa2ff;
+  opacity: 1.2;
+}
 .overview {
   text-align: center;
   background: #fff;
