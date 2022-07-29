@@ -30,12 +30,6 @@ li {
 li:first-letter {
   text-transform: capitalize;
 }
-hr {
-  border-color: #4070ff;
-  margin-left: 20px;
-  margin-right: 20px;
-  opacity: 0.6;
-}
 
 .weather-app-wrapper {
   max-width: 600px;
@@ -49,12 +43,14 @@ hr {
   border-radius: 5px;
   box-shadow: 3px 4px 21px rgba(0, 0, 0, 0.1);
 }
+
 .mb-3 {
   margin-top: 20px;
   margin-left: 20px;
   text-align: left;
   width: 103%;
 }
+
 .search-button {
   margin-right: 5px;
   margin-left: -5px;
@@ -72,6 +68,7 @@ hr {
   margin-top: 30px;
   position: static;
 }
+
 .card {
   padding: 10px;
   margin-top: 30px;
